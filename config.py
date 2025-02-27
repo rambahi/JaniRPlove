@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/auntyxd12/XXSHEHZADIXX",
+    "https://github.com/lajabajwkjsaiajajahjwkdhdywhjwjsjsgs/NOORX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Incricible")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/zoyu_support")
-SOURCE = getenv("SOURCE", "https://t.me/zoyu_Support")
-CHAT = getenv("CHAT", "https://t.me/the_incricible")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THUNDERDEVS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+pnDJxCG5VVphMTVl")
+SOURCE = getenv("SOURCE", "https://t.me/THUNDERDEVS")
+CHAT = getenv("CHAT", "https://t.me/+pnDJxCG5VVphMTVl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
